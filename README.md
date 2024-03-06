@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **An Ecommerce Website**
 
-- 🌱 Learning **Next.js, Vite, React Redux**
+- 🌱 Learning **Next.js, Vite, Node.js, Express**
 
 - 📫 Reach me at **bridgit.k.mutinda@gmail.com**
 
