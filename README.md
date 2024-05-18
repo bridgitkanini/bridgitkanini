@@ -7,7 +7,7 @@
 
 - 🔭 Currently working on **<a href="https://github.com/SpaceyaTech/SYT-Web-Redesign">SpaceYaTech Web Redesign</a>**
 
-- 🌱 Learning **Next.js, Vite, Node.js, Express**
+- 🌱 Learning **Next.js, Vite, Node.js, Express, MySQL**
 
 - 📫 Reach me at **bridgit.k.mutinda@gmail.com**
 
