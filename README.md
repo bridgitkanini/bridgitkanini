@@ -7,7 +7,7 @@
 
 - 🔭 I actively contribute to Open Source projects. I am currently maintaining **<a href="https://github.com/SpaceyaTech/SYT-Web-Redesign">SpaceYaTech Web Redesign</a>**
 
-- 🌱 I enjoy teaching & mentoring within technical communities. I am currently co-hosting weekly <a href="https://mentorlst.com/group-details/how-to-react-dd1f8">React sessions</a> on MentorLst.
+- 🌱 I enjoy teaching & mentoring within technical communities. I am currently co-hosting weekly <a href="https://mentorlst.com/group-details/how-to-react-dd1f8">React sessions</a> on Mentorlst, aimed at building <a href="https://github.com/SpaceyaTech/CoLabs-Frontend" >CoLabs </a>
 
 - 📫 Reach me at **bridgit.k.mutinda@gmail.com**
 
