@@ -3,13 +3,16 @@
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/CKI21v0kbp52ioPzOINSUh87LRkMTrN2Nv-8PN8E5Ic/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWdpcmwtYW5pbWF0/aW9uLWZlN3Q0Z2Vq/dXJtdG9mOHYuZ2lm.gif" >
 
-- I’m a passionate Software Engineer, building web applications with JavaScript, TypeScript, ReactJS, NodeJS and TailwindCSS.
+- I’m a passionate Software Engineer, building web applications with JavaScript, TypeScript, React, Next.js, and TailwindCSS.
 
-- 🔭 I actively contribute to Open Source projects. I am currently maintaining **<a href="https://github.com/SpaceyaTech/SYT-Web-Redesign">SpaceYaTech Web Redesign</a>**
+- 🔭 I actively contribute to Open Source projects and maintain **<a href="https://github.com/SpaceyaTech/SYT-Web-Redesign">SpaceYaTech Web Redesign</a>**
 
-- 🌱 I enjoy teaching & mentoring within technical communities. I am currently co-hosting weekly <a href="https://mentorlst.com/group-details/how-to-react-dd1f8">React sessions</a> on Mentorlst, aimed at building <a href="https://github.com/SpaceyaTech/CoLabs-Frontend" >CoLabs </a>
+- 👩🏽‍💻 I lead the frontend team for the **<a href="https://github.com/Tech-Sisters-Kenya/tsk-website-frontend">Tech Sisters Kenya WebApp</a>**, a platform empowering women in tech.
+
+- 🌱 I enjoy teaching & mentoring within technical communities, currently mentoring through <a href="https://github.com/SpaceyaTech/CoLabs-Frontend">CoLabs</a>, a platform for developers to collaborate on open-source projects across different tech stacks.
 
 - 📫 Reach me at **bridgit.k.mutinda@gmail.com**
+
 
 <br>
 <br>
