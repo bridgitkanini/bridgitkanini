@@ -19,10 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/bridgit-mutinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bridgit-mutinda" height="30" width="40" /></a>
-  <a href="https://twitter.com/bridgitkanini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bridgitkanini" height="30" width="40" /></a>
-  <a href="https://codepen.io/bridgit-kanini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bridgit-kanini" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/bridgitkanini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bridgit-mutinda" height="30" width="40" /></a>
+   <a href="https://x.com/BridgitKanini" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/000000" alt="bridgitkanini" height="30" width="40" /></a>
+  <a href="https://wakatime.com/@bkmcode" target="blank"><img align="center" src="https://cdn.simpleicons.org/wakatime/000000" alt="@bkmcode" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/bridgitkanini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bridgitkanini" height="30" width="40" /></a>
+  <a href="https://codepen.io/bridgit-kanini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bridgitkanini" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -34,18 +35,17 @@
 
 <h3 align="left">My Stats:</h3>
 
+
 <a href="https://wakatime.com/@018c7eea-4a7c-48cb-bbd8-4181e6a7bad1"><img src="https://wakatime.com/badge/user/018c7eea-4a7c-48cb-bbd8-4181e6a7bad1.svg" alt="Total time coded since Dec 19 2023" /></a>
 
-<table>
-  <tr>
-    <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bridgitkanini&show_icons=true&locale=en&layout=compact" alt="bridgitkanini" /></p>
-    </td>
-    <td>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bridgitkanini&show_icons=true&locale=en" alt="bridgitkanini" /></p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bridgitkanini&theme=default" alt="bridgitkanini" />
+</p>
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bridgitkanini&theme=default" alt="bridgitkanini" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bridgitkanini&theme=default" alt="bridgitkanini" />
+</p>
 
 <br>
 <br>
