@@ -45,6 +45,3 @@
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bridgitkanini&theme=default" alt="bridgitkanini" />
 </p>
-
-<br>
-<br>
