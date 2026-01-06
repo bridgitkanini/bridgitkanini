@@ -35,16 +35,15 @@
 
 <h3 align="left">My Stats:</h3>
 
-
 <a href="https://wakatime.com/@018c7eea-4a7c-48cb-bbd8-4181e6a7bad1"><img src="https://wakatime.com/badge/user/018c7eea-4a7c-48cb-bbd8-4181e6a7bad1.svg" alt="Total time coded since Dec 19 2023" /></a>
-
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bridgitkanini&theme=default" alt="bridgitkanini" />
-</p>
 
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bridgitkanini&theme=default" alt="bridgitkanini" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bridgitkanini&theme=default" alt="bridgitkanini" />
+</p>
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bridgitkanini&theme=default" alt="bridgitkanini" />
 </p>
 
 <br>
